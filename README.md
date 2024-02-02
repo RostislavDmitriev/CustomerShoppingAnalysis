@@ -8,7 +8,7 @@ The dataset was obtained from the [Customer Shopping Dataset - Retail Sales Data
 
 ## About Data
 
-The data contains 10 columns and 1500 rows:
+The data contains 10 columns and 1200 rows:
 
 | Column | Description | Type | 
 | :---: | :--- | :---: |
