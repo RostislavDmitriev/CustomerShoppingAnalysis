@@ -10,7 +10,7 @@ The dataset was obtained from the [Customer Shopping Dataset - Retail Sales Data
 
 The data contains 10 columns and 1500 rows:
 
- Column | Description | Type | 
+| Column | Description | Type | 
 | --- | --- |
 | invoice_no | Invoice number | VARCHAR(30) |
 | customer_id | Customer number | VARCHAR(30) |
